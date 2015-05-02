@@ -3,7 +3,7 @@ Frontend stuff
 
 A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
-
+#JS
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -15,6 +15,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
+- [Switches](#switches)
+- [Context Menus](#contextmenus)
+- [Grid](#grid)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
@@ -26,7 +29,17 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Databases](#databases)
 - [Social](#social)
 
+#CSS
+- [Patterns](#patterns)
+- [Buttons](#buttons)
+- [CSS Frameworks](#cssframeworks)
 
+#Design
+- [Mockups](#mokups)
+
+#Other
+
+#JS
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
@@ -139,6 +152,21 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 
+### Switches
+
+- [bootstrapswitch](https://github.com/nostalgiaz/bootstrap-switch) - Bootstrap Switch
+
+### Context Menus
+
+- [bootstrapcontextmenu](https://github.com/sydcanem/bootstrap-contextmenu) - Bootstrap Context Menu
+- [jquerycontextmenu](https://github.com/medialize/jQuery-contextMenu) - JQuery Context Menu
+
+### Grid
+- [isotope](https://github.com/metafizzy/isotope) - Isotope
+
+###Carousel
+- [owlcarousel](https://github.com/OwlFonk/OwlCarousel) - Owl Carousel
+
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
@@ -215,3 +243,27 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
+
+#CSS
+
+###Patterns
+- [subtle-patterns](http://subtlepatterns.com/) - Background Patterns
+
+###Buttons
+- [buttons](http://sixrevisions.com/css/ghost-buttons/) - Ghost buttons
+
+###CSS Frameworks
+- [flatui](http://designmodo.com/flat-free/) - Flat UI
+- [bootstrap](http://getbootstrap.com/) - Bootstrap
+- [skeleton](http://getskeleton.com/) - Skeleton (Stylish, Grid (Responsive), Good typography, Buttons, Forms, Lists, Tables)
+
+#Design
+
+###Mockups
+- [wireframecc](https://wireframe.cc/) - Wireframe.cc - Fast creation of sketch
+
+#Other
+
+###OverAPI.com
+- [overapi](http://overapi.com/) - OverAPI.Com - ALL CHEAT SHEETS - Python, JQuery, Node.JS, PHP, CSS, JS, Git, HTML, Regex
+- [devchecklist](http://webdevchecklist.com/) - Web Dev Checklist - Checkboxes for main steps in web development
